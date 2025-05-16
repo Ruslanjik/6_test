@@ -16,7 +16,7 @@ Python 3.7 или выше
 Личный токен доступа (Personal Access Token) GitHub с правами repo
 
 Шаг 1. Клонирование проекта (если ещё не сделал)   
-Шаг 2. Устновка библиотек: selenuim, requests, dotenv
+Шаг 2. Устновка библиотек: selenuim, requests, dotenv  
 Шаг 3. Установка зависимостей:pip install -r requirements.txt    
 Шаг 4.Настройка переменных окружения: укажи в файле .env свой логин, токен и название проекта  
 Шаг 5. Запуск тестов:pytest -v test_api.py  
